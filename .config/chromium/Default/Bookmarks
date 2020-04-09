@@ -1,0 +1,54 @@
+{
+   "checksum": "f45e53f870d264cc4ee850476f6097e7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13230417851062571",
+            "guid": "a4c6d563-9803-43be-b477-b2afe5377767",
+            "id": "5",
+            "name": "volume",
+            "type": "url",
+            "url": "https://emojipedia.org/search/?q=volume"
+         }, {
+            "date_added": "13230769921400257",
+            "guid": "d9c76c29-fe40-4da7-9984-1213f873e445",
+            "id": "7",
+            "name": "node.js - how to put nodejs and apache in the same port 80 - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/11172351/how-to-put-nodejs-and-apache-in-the-same-port-80"
+         }, {
+            "date_added": "13230770196489660",
+            "guid": "ef876ae3-be41-4f1d-b15f-60d3f1e5db21",
+            "id": "8",
+            "name": "Pricing · Codeanywhere",
+            "type": "url",
+            "url": "https://codeanywhere.com/pricing"
+         } ],
+         "date_added": "13230414541774234",
+         "date_modified": "13230770196489660",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13230414541774239",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13230414541774241",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
