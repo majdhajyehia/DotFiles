@@ -29,6 +29,6 @@ filetype plugin indent on
 " bind a key to open the fzf file search menu"
 nnoremap <c-p> :Files<CR>
 " bind a key to open the NERDTree menu on left side"
-nnoremap <c-\> :NERDTree<CR>
+nnoremap <c-\> :NERDTreeToggle<CR>
 " set the colorscheme"
 colorscheme royalking
