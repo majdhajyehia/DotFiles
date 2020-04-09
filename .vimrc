@@ -11,6 +11,7 @@ filetype off
 filetype plugin on
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
+" load the plugins"
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'Royal-Colorschemes'
 Plugin 'ycm-core/YouCompleteMe'
@@ -25,5 +26,9 @@ Plugin 'mattn/emmet-vim'
 Plugin 'preservim/nerdtree'
 call vundle#end()
 filetype plugin indent on
-
+" bind a key to open the fzf file search menu"
+nnoremap <c-p> :Files<CR>
+" bind a key to open the NERDTree menu on left side"
+nnoremap <c-\> :NERDTree<CR>
+" set the colorscheme"
 colorscheme royalking
