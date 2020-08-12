@@ -1,9 +1,0 @@
-2020/04/09-12:40:13.210 b91 Reusing MANIFEST /home/majd/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2020/04/09-12:40:13.334 b91 Recovering log #215
-2020/04/09-12:40:13.612 b91 Reusing old log /home/majd/.config/chromium/Default/Local Storage/leveldb/000215.log 
-2020/04/09-13:41:26.348 712c Level-0 table #220: started
-2020/04/09-13:41:26.391 712c Level-0 table #220: 15908 bytes OK
-2020/04/09-13:41:26.445 712c Delete type=0 #215
-2020/04/09-14:12:37.394 712c Level-0 table #222: started
-2020/04/09-14:12:37.730 712c Level-0 table #222: 16758 bytes OK
-2020/04/09-14:12:37.827 712c Delete type=0 #219
