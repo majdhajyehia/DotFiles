@@ -1,0 +1,33 @@
+{
+    "[php]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    },
+    "window.zoomLevel": 1,
+    "workbench.colorCustomizations": {
+        "editor.background": "#1e1e1e",
+        "activityBar.activeBackground": "#181818",
+        "sideBar.background": "#1e1e1e",
+        "editor.foreground": "#ffffff7c",
+        "tab.activeForeground": "#ffffff9c",
+        "tab.inactiveForeground": "#ffffff34",
+        "tab.activeBackground": "#1e1e1e",
+        "tab.inactiveBackground": "#1e1e1e",
+        "sideBar.foreground": "#ada9a9",
+        "titleBar.activeBackground": "#1e1e1e",
+        "titleBar.activeForeground": "#ada9a9",
+        "breadcrumb.background": "#1e1e1edc",
+        "breadcrumb.foreground": "#ada9a9",
+        "titleBar.inactiveBackground": "#292929",
+        "titleBar.inactiveForeground": "#ffffff49"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#b89933",
+        
+    },
+    "workbench.colorTheme": "Bear Theme",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 13,
+    "editor.fontWeight": "400",
+    "terminal.integrated.fontFamily": "Inconsolata",
+}
